@@ -24,7 +24,9 @@ Run
 http://localhost:8000/hangman.php
 ```
 
-
 ## Usage
 
 http://localhost/weverve_hangman/hangman.php
+
+
+![1689776664987](image/README/1689776664987.png)"
